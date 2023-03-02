@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Vector Jaguar Shoes",
+    "price": 50,
+    "imageUrl": "https://m.media-amazon.com/images/I/41ozgvFDdeL._AC_UL320_.jpg",
+    "color": "White, Gold",
+    "size": "M"
+  },
+  {
+    "id": 2,
+    "name": "Nivia Dominator Shoes",
+    "price": 98,
+    "imageUrl": "https://m.media-amazon.com/images/I/81NEA08jvVL._AC_UL320_.jpg",
+    "color": "White, Gold",
+    "size": "M"
+  },
+  {
+    "id": 3,
+    "name": "Vector X Shoes",
+    "price": 50,
+    "imageUrl": "https://m.media-amazon.com/images/I/812w5PWSkJL._AC_UL320_.jpg",
+    "color": "White, Gold",
+    "size": "M"
+  },
+  {
+    "id": 4,
+    "name": "Vector X Shoes",
+    "price": 70,
+    "imageUrl": "https://m.media-amazon.com/images/I/81PD4xjiewL._AC_UL320_.jpg",
+    "color": "White, Gold",
+    "size": "M"
+  },
+  {
+    "id": 5,
+    "name": "Argentina Football Shoes",
+    "price": 100,
+    "imageUrl": "https://m.media-amazon.com/images/I/41+qq2ZXT9L._AC_UL320_.jpg",
+    "color": "White, Gold",
+    "size": "M"
+  }
+]

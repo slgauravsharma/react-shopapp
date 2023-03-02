@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700,800,900');
+@import url('https://fonts.googleapis.com/css?family=Rubik:100,200,300,400,500,600,700,800,900');
+@import 'bootstrapCustom';
+
+* {
+    font-family: 'SF Pro*', 'Helvetica Neue', Roboto, Rubik;
+}
+
+.cart-list-height {
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.product-image {
+    height: 60px;
+    width: 60px;
+    margin-right: 10px;
+    margin-left: 20px;
+}
+
+.cart-col {
+    padding-top: 40px
+}
+
+.inc-desc-action {
+    width: 45px;
+    height: 40px;
+    background-color: #eeee;
+    border: none;
+    border-radius: unset;
+    cursor: pointer;
+    &:hover {
+        background-color: grey;
+    }
+    &:disabled {
+        background-color: #eeee;
+    }
+}
+
+.inc-desc-text,  .inc-desc-text:hover {
+    width: 45px;
+    height: 40px;
+    background-color: #fff;
+    border: none;
+    border-radius: unset;
+    border-top: 1px solid #eeee;
+    border-bottom: 1px solid #eeee;
+    cursor: unset;
+}
